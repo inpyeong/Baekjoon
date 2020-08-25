@@ -1,2 +1,2 @@
-# Baekjoon
-Problem solving of Baekjoon Algorithm 
+# algorithm
+Algorithm problem solving 
